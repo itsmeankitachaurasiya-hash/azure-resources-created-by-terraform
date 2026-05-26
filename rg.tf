@@ -6,4 +6,7 @@ resource"azurerm_resource_group""resource_block"{
  name="rg2" 
   location="westus"
 }
-
+{
+ name="rg3" 
+  location="central india"
+}
